@@ -1,0 +1,73 @@
+body{
+    background-color: rgb(86, 39, 39);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+}
+p{
+margin-left: 10px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: x-large;
+}
+a{
+    text-decoration: none;
+    color: azure;
+}
+.logo {
+    width: 150px;
+    height: 150px;
+    margin-left: 670px;
+    border-radius: 35%;
+}
+.i1{
+    justify-content: flex-start;
+    width: 800px;
+    height: auto;
+    flex: none;
+}
+.i2{
+    justify-content: center;
+    width: 400px;
+    height: auto;
+}
+.i3{
+    justify-content: flex-start;
+    width: 800px;
+    height: auto;
+    flex: none;
+}
+.i4{
+    justify-content: flex-start;
+    width: 800px;
+    height: auto;
+    flex: none;
+}
+.i5{
+    justify-content: flex-start;
+    width: 800px;
+    height: auto;
+    flex: none;
+}
+.i6{
+    justify-content: flex-start;
+    width: 800px;
+    height: auto;
+    flex: none;
+}
+.i7{
+    justify-content: flex-start;
+    width: 800px;
+    height: auto;
+    flex: none;
+}
+.i8{
+    justify-content: flex-start;
+    width: 800px;
+    height: auto;
+    flex: none;
+}
+.i6{
+    justify-content: flex-start;
+    width: 800px;
+    height: auto;
+    flex: none;
+}
